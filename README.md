@@ -4,6 +4,8 @@ Example electron boilerplate app with react integrated for development and produ
 Clone the repo
 make sure you have both _yarn_ & _npm_ installed
 
-###__npm install__ install dependencies
-###__npm run start__  Start server
-###__npm run build___ Build your app
+###npm install install dependencies
+
+###npm run start  Start server
+
+###npm run build Build your app
